@@ -1,0 +1,65 @@
+*{
+   margin: 0;
+   padding: 0;
+    box-sizing: border-box;
+    text-decoration: none; 
+    font-family: sans-serif;
+}
+body {
+
+    background-image: url(/imagenes/paws-patterns-creative-footprints-patterns-abstract-backgrounds-dog-footprints-besthqwallpapers.com-1600x1200.jpeg);
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+  
+}
+
+.loginbox{
+ background-color: white;
+ width: 280px;
+ height: 600px;
+ align-items: center;
+height: 400px;
+padding: 10px;
+border-radius: 20px;
+text-align: center;
+ margin: auto;
+
+}
+
+.imagen {
+    width: 150px;
+    height: 150px;
+}
+
+.hachedos {
+    margin: 10px;
+}
+.email {
+    padding: 5;
+    width: 230;
+    height: 35;
+    }
+
+.password { 
+ width: 230px; 
+ height: 35;   
+ padding: 5 ;
+
+}
+
+.submit {
+ width: 170px;
+ height: 40px;
+ margin: 10px;
+ background-color: #EABD5E;
+
+}
+
+.olvidaste {
+color: black;
+margin: 30px;
+
+}
