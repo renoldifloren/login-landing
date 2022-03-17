@@ -2,7 +2,7 @@
    margin: 0;
    padding: 0;
     box-sizing: border-box;
-    text-decoration: none; 
+  
     font-family: sans-serif;
 }
 body {
@@ -37,29 +37,26 @@ text-align: center;
 .hachedos {
     margin: 10px;
 }
-.email {
+.inputdata {
     padding: 5;
     width: 230;
     height: 35;
     }
 
-.password { 
- width: 230px; 
- height: 35;   
- padding: 5 ;
 
-}
 
 .submit {
+ font-size: x-small;
  width: 170px;
  height: 40px;
  margin: 10px;
- background-color: #EABD5E;
-
+ background-color: #DEB887;
+ border-radius: 5px;
+ border: none;
+ 
 }
 
 .olvidaste {
 color: black;
-margin: 30px;
-
-}
+text-decoration: none;
+margin-top: 200px;
